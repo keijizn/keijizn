@@ -50,3 +50,44 @@ Software developer focused on building modern applications and understanding how
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>GitHub Activity</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=keijizn&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keijizn&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keijizn&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+---
+
+<h2>Featured Projects</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>Portfolio</h3>
+<p>Personal portfolio built with HTML, CSS and JavaScript.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Projeto Sistema de Moedas Escolares</h3>
+<p>Academic system built with Java and Spring Boot.</p>
+
+</td>
+</tr>
+</table>
