@@ -2,7 +2,8 @@
 <tr>
 <td width="45%">
 
-<img width="362" height="623" alt="6764d8a12376d11965247915017b8149" src="https://github.com/user-attachments/assets/49910650-c2b3-471c-98aa-22ffec1fc0ef" />
+<img src="https://github.com/user-attachments/assets/08bca8a3-91b1-4db8-8b98-35881b9ac436" 
+     style="width:100%; height:600px; object-fit:cover; border-radius:10px;" />
 
 
 </td>
