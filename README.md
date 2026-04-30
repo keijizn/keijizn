@@ -35,8 +35,8 @@ Software developer focado em aplicações modernas, com interesse em backend, fr
 
 ## Contact
 
-- GitHub: https://github.com/keijizn 
-- LinkedIn: coloque-seu-link-aqui  
+- Instagram: https://www.instagram.com/gus_ke/?__pwa=1#
+- LinkedIn: https://www.linkedin.com/in/gustavo-ignacio/  
 
 </td>
 </tr>
