@@ -37,7 +37,7 @@ Software developer focused on building modern applications and understanding how
 
 ## Contact
 
-- Instagram: https://www.instagram.com/gus_ke/?__pwa=1#
+- Instagram: https://www.instagram.com/gus_ke/
 - LinkedIn: https://www.linkedin.com/in/gustavo-ignacio/
 
 </td>
