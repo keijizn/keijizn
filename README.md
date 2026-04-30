@@ -71,23 +71,4 @@ Software developer focused on building modern applications and understanding how
 
 <br>
 
----
-
-<h2>Featured Projects</h2>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>Portfolio</h3>
-<p>Personal portfolio built with HTML, CSS and JavaScript.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Projeto Sistema de Moedas Escolares</h3>
-<p>Academic system built with Java and Spring Boot.</p>
-
-</td>
-</tr>
 </table>
